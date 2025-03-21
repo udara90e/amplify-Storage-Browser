@@ -15,4 +15,5 @@ export const storage = defineStorage({
       allow.entity('identity').to(['read', 'write', 'delete'])
     ]
   })
+  
 });
